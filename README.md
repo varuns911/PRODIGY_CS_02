@@ -20,7 +20,7 @@ pip install pillow numpy
 
 2. Run the script:
 
-python image_encryption.py
+python Image_Encryption.py
 
 3. When prompted, enter the full path to your image file.
 
